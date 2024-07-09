@@ -8,22 +8,22 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Tandem',
-  tagline: 'Dinosaurs are cool',
+  title: 'HPE NonStop x Tandem',
+  tagline: 'NonStop removes the need for clustering and load balancing.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/tandem',
+  baseUrl: '/nonstop101',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'shaniceabigail', // Usually your GitHub org/user name.
-  projectName: 'tandem', // Usually your repo name.
+  projectName: 'nonstop101', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -72,15 +72,24 @@ const config = {
           src: 'img/element.svg',
         },
         items: [
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/docs/category/the-platform', label: 'Platform', position: 'left'},
+          {to: '/docs/category/our-database', label: 'Database', position: 'left'},
+          
+          // software and security?
+          {to: '/docs/category/our-software-portfolio', label: 'Software', position: 'left'},
+          
+          {to: '/docs/category/the-middleware', label: 'Middleware', position: 'left'},
+          {to: '/docs/category/hpe-nonstops-greenlake', label: 'GreenLake', position: 'left'},
+          
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/HewlettPackard/NonStop',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,8 +102,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Quick Start',
+                to: '/docs/database/setting-up',
               },
             ],
           },
@@ -119,17 +128,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'HPE Dev',
+                to: 'https://developer.hpe.com/platform/hpe-nonstop/home/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/HewlettPackard/NonStop',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} HPE NonStop Developer Portal. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
