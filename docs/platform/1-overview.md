@@ -1,21 +1,23 @@
 ---
-sidebar_label: 'Our Secret to Uptime'
+sidebar_label: 'Overview'
 sidebar_position: 1
 ---
 
-# Our Secret to Uptime
+# What is the NonStop?
 
-NonStop is a platform that runs some of the world’s most exciting workloads in our day-to-day life. From producing luxury cars, to making payments in our grocery shopping, to helping people travel and executing massive amount of transactions in stock exchanges, NonStop is the platform that lets our customers, and their engineers get their sleep, while their mission-critical applications continue relentlessly in data centres and on private clouds.
+NonStop is a platform that runs some of the world’s most exciting workloads in our day-to-day life. From producing luxury cars, to making payments in our grocery shops, NonStop is the platform that lets our customers, and their engineers get their sleep, while their mission-critical applications continue in data centres and on private clouds.
 
 
-## The Art - "Many Nodes but One System" Administration
+## Many Nodes, One System Administration
 
-To the user, the highly reliable system spanning up to 1000+ CPUs looks like one system - though they are many, all the nodes / CPUs can be accessed through one window.
+Typically, a system of multiple nodes would require a team of administrators to maintain the cluster and ensure load is balanced when there is failure. **The more nodes we have, the more complex the system**.
 
-There is no worry about version control across the nodes, and any code to handle failures - they are mirrored across the entire system and **the system is seen as one**.
+Not for the NonStop.
 
-## The Artist - 
-The NonStop OS runs applications and its processes based on a shared-nothing architecture, with mirrored paths between instructions etc.
+On this platform, a cluster of multiple nodes (we're talking about up to 1000+ CPUS) is seen as one single system image. We do not worry about version control across the nodes, and any code to handle failures - data and processes are mirrored across the entire system and **a NonStop system of many nodes is seen as one**.
+
+## Patented Process Pair Technology
+The NonStop OS runs applications and its processes using the MPP (massively parallel) architecture, which is a shared-nothing architecture, with mirrored paths between instructions etc.
 
 It is [IDC Availability Level 4](https://blog.stratus.com/what-exactly-is-high-availability-anyway/#:~:text=Zero%20End%20User%20Impact%20(No%20Downtime%20%E2%80%93%20IDC%20calls%20this%20AL4)&text=This%20means%20that%20there%20is,the%20event%20of%20a%20failure) and provides continuous, uninterrupted operation in the event of failure.
 
@@ -23,11 +25,9 @@ This means we specialise in applications that require clustering for highest ava
 
 ![Simplicity is Best](/img/simplicity.PNG)
 
-## Patented Process Pair Technology
+The NonStop OS has patented its fault-tolerant and self-healing technology by allowing paired processes to takeover when a primary component fails.
 
-The NonStop OS has patented its fault-tolerant and self-healing technology by allowing paired processes to takeover the roles of a component that failed.
-
-### How does it work when there is failure?
+### What happens when there is failure?
 
 1. Component fails.
 

@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'HPE NonStop x Tandem',
   tagline: 'NonStop removes the need for clustering and load balancing.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/element.svg',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -23,7 +23,7 @@ const config = {
   organizationName: 'shaniceabigail', // Usually your GitHub org/user name.
   projectName: 'nonstop101', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://developer.hpe.com/platform/hpe-nonstop/home/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'HPE NonStop Developer Portal',
+        title: 'HPE NonStop 101',
         logo: {
           alt: 'HPE Logo',
           src: 'img/element.svg',
@@ -79,7 +79,7 @@ const config = {
           //   label: 'Tutorial',
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/docs/category/the-platform', label: 'Platform', position: 'left'},
+          {to: '/docs/category/nonstop-platform', label: 'Platform', position: 'left'},
           {to: '/docs/category/our-database', label: 'Database', position: 'left'},
           
           // software and security?

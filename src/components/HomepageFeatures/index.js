@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    //onboarding platform
+    title: 'Some First Steps',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Our NonStop Developer Portal shares tech tips to get developers and engineers onboarded and hit the ground running. Just some quick starts to get the baby-walker things out of the way.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    //developer community driven
+    title: 'Calling NonStop Developers',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Check our GitHub for inspirational repos and non-copyrighted code. Share ideas and frustration with the rest of our NonStop community - we're doing this in Tandem!
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    //inspire product roadmaps
+    title: 'Help Me Please!',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Hate getting stuck? Us too. Drop us a mail, and let's find a workaround with some NonStop veterans.
       </>
     ),
   },
