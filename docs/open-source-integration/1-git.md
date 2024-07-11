@@ -26,48 +26,52 @@ Let's get started!
 
 ## 1. Generating the Public Key on NonStop
 1. Log onto your NonStop system and type this command in Guardian.
->     
-     $VOLUME USER 1> sshcom $ZSTCF
 
+```  
+     $VOLUME USER 1> sshcom $ZSTCF
+```
 
 2. Switch to client mode.
->     
+```    
      % mode client
      mode client
      OK, switched to client mode
-
+```
 
 3. Generate key with a key name i.e mykey, and add a comment for the key generated with your email id.
->     
+```    
      % GENERATE KEY mykey,TYPE RSE, BITS 2048, COMMENT "myemail@email.com"
-
+```
 
 4. Export mykey into the OpenSSH format, store into a volume and exit.
->     
+```   
      % EXPORT KEY mykey, FORMAT OPENSSH, FILE $volume.USER.pubkey
      OK, key user:mykey exported
      % exit
-
+```
 ## 2. Retrieving the Key from Guardian
 1. Using Guardian, go to the volume where the key is stored in and copy the key into the command line.
->     
+```     
      $VOLUME USER 2> volume $volume.USER
      $VOLUME USER 3> fup copy pubkey,,recin 4096, recout 4096, fold
+```
 
 ## 3. Dropping the key onto the cloud repository
 
-Here's the link for **[Bitbucket](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)** and for **[GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account )**.
+Here are the tutorial links for **[Bitbucket](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)** and for **[GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account )**.
 
 ## 4. Adding the Host onto the NonStop
 Log into OSS and add the repository url into volume, **$ZSTCF**, and add host onto store (yes/no).
 
 ### Bitbucket
-> 
+```
     /home/usr: /G/system/zssh/sshoss -T -S \$ZSTCF git@bitbucket.org
+```
 
 ### GitHub
-> 
+```
     /home/usr: /G/system/zssh/sshoss -T -S \$ZSTCF git@github.com
+```
 
 Congratulations! You now have a git repository on your NonStop, ready for development and your git workflows!
 

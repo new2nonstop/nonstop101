@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'HPE NonStop x Tandem',
-  tagline: 'NonStop removes the need for clustering and load balancing.',
+  title: 'HPE NonStop',
+  tagline: 'HPE\'s Self-Healing Platform - Always On.',
   favicon: 'img/element.svg',
 
   // Set the production url of your site here
@@ -80,14 +80,14 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/category/nonstop-platform', label: 'Platform', position: 'left'},
-          {to: '/docs/category/our-database', label: 'Database', position: 'left'},
+          {to: '/docs/category/guardian-system', label: 'Guardian', position: 'left'},
           
           // software and security?
-          {to: '/docs/category/our-software-portfolio', label: 'Software', position: 'left'},
+          {to: '/docs/category/oss', label: 'OSS', position: 'left'},
           
-          {to: '/docs/category/the-middleware', label: 'Middleware', position: 'left'},
-          {to: '/docs/category/hpe-nonstops-greenlake', label: 'GreenLake', position: 'left'},
-          
+          {to: '/docs/category/nonstop-database', label: 'Database', position: 'left'},
+          {to: '/docs/category/nonstop-ecosystem-and-partner-products', label: 'Ecosystem', position: 'left'},
+          {to: '/docs/category/open-source-tutorials', label: 'Tutorials', position: 'left'},
           {
             href: 'https://github.com/HewlettPackard/NonStop',
             label: 'GitHub',
