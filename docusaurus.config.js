@@ -80,14 +80,15 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/category/nonstop-platform', label: 'Platform', position: 'left'},
-          {to: '/docs/category/guardian-system', label: 'Guardian', position: 'left'},
+          // {to: '/docs/category/guardian-system', label: 'Guardian', position: 'left'},
           
-          // software and security?
-          {to: '/docs/category/oss', label: 'OSS', position: 'left'},
+          // // software and security?
+          // {to: '/docs/category/oss', label: 'OSS', position: 'left'},
           
-          {to: '/docs/category/nonstop-database', label: 'Database', position: 'left'},
+          // {to: '/docs/category/nonstop-database', label: 'Database', position: 'left'},
+          {to: '/docs/category/quick-starts', label: 'Quick Starts', position: 'left'},
           {to: '/docs/category/nonstop-ecosystem-and-partner-products', label: 'Ecosystem', position: 'left'},
-          {to: '/docs/category/open-source-tutorials', label: 'Tutorials', position: 'left'},
+          
           {
             href: 'https://github.com/HewlettPackard/NonStop',
             label: 'GitHub',

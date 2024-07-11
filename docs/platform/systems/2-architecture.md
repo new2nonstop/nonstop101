@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'System Architecture'
+sidebar_label: 'NonStop System Architecture'
 sidebar_position: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Middleware for NonStop'
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Our Middleware
