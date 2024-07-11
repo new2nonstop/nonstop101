@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>HPE NonStop x Tandem Blog</title>
+        <title>HPE NonStop 101 Blog</title>
         <link>https://github.com/nonstop101/blog</link>
-        <description>HPE NonStop x Tandem Blog</description>
+        <description>HPE NonStop 101 Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>

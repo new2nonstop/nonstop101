@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/nonstop101/blog</id>
-    <title>HPE NonStop x Tandem Blog</title>
+    <title>HPE NonStop 101 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/nonstop101/blog"/>
-    <subtitle>HPE NonStop x Tandem Blog</subtitle>
+    <subtitle>HPE NonStop 101 Blog</subtitle>
     <icon>https://github.com/nonstop101/img/element.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
