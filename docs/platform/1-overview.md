@@ -7,6 +7,8 @@ sidebar_position: 1
 
 NonStop is a platform that runs some of the world’s most exciting workloads in our day-to-day life. From producing luxury cars, to making payments in our grocery shops, NonStop is the platform that lets our customers, and their engineers get their sleep, while their mission-critical applications continue in data centres and on private clouds.
 
+![What Makes NonStop, NonStop](/img/vp.png)
+
 
 ## Many Nodes, One System Administration
 

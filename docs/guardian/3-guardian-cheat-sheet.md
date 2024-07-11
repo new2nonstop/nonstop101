@@ -13,6 +13,8 @@ sidebar_position: 3
 
 ```fc```
 
+```purge [FILENAME]```
+
 ## Edit
 ```l``` - list
 
