@@ -79,14 +79,14 @@ const config = {
           //   label: 'Tutorial',
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/docs/category/nonstop-platform', label: 'Platform', position: 'left'},
+          {to: '/docs/category/know-your-nonstop', label: 'Basics', position: 'left'},
           // {to: '/docs/category/guardian-system', label: 'Guardian', position: 'left'},
           
           // // software and security?
           // {to: '/docs/category/oss', label: 'OSS', position: 'left'},
           
           // {to: '/docs/category/nonstop-database', label: 'Database', position: 'left'},
-          {to: '/docs/category/quick-starts', label: 'Quick Starts', position: 'left'},
+          {to: '/docs/category/deep-dive---reference-manuals--data-sheets--architecture-diagrams', label: 'Deep Dives', position: 'left'},
           {to: '/docs/category/nonstop-ecosystem-and-partner-products', label: 'Ecosystem', position: 'left'},
           
           {
@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'Quick Start',
-                to: '/docs/database/setting-up',
+                to: '/docs/know-your-nonstop/getting-started',
               },
             ],
           },
