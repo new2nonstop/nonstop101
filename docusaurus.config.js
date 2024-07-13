@@ -112,16 +112,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Connect Worldwide',
+                href: 'https://connect-community.org/nonstop/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'NonStop Events',
+                href: 'https://connect-community.org/chapter-events-2024/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'NonStop Technical Bootcamp',
+                href: 'https://nonstoptbc.com',
               },
             ],
           },
@@ -139,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} HPE NonStop Developer Portal. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} HPE NonStop 101. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
