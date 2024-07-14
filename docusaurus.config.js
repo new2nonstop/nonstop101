@@ -78,17 +78,10 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/category/know-your-nonstop', label: 'Basics', position: 'left'},
-          // {to: '/docs/category/guardian-system', label: 'Guardian', position: 'left'},
-          
-          // // software and security?
-          // {to: '/docs/category/oss', label: 'OSS', position: 'left'},
-          
-          // {to: '/docs/category/nonstop-database', label: 'Database', position: 'left'},
           {to: '/docs/category/deep-dive---reference-manuals--data-sheets--architecture-diagrams', label: 'Deep Dives', position: 'left'},
-          {to: '/docs/category/nonstop-ecosystem-and-partner-products', label: 'Ecosystem', position: 'left'},
-          
+          {to: '/docs/category/hpe-nonstop-partners', label: 'Partners', position: 'left'},
+          {to: '/docs/category/hpe-regions', label: 'Regions', position: 'left'},
           {
             href: 'https://github.com/HewlettPackard/NonStop',
             label: 'GitHub',
