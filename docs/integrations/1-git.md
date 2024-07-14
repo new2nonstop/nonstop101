@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Git'
+sidebar_label: 'Connecting public cloud repos to Your NonStop using git'
 sidebar_position: 1
 ---
 
-# Git
+# Connecting git to Your NonStop
 
 # What is git?
 Git is the industry standard for version control in the DevOps (Developer x Operations) space. So much that it has become a household name for every developer in the world. 

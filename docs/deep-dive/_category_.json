@@ -1,0 +1,8 @@
+{
+  "label": "Deep Dives",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+  "description": "Collection of reference manuals, data sheets and architecture diagrams for those sinking deeper in the tech."
+  }
+}

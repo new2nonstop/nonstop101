@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'New Kid on the Block - SQL/MX'
+sidebar_label: 'SQL/MX'
 sidebar_position: 1
 ---
 

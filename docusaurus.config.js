@@ -79,7 +79,7 @@ const config = {
           //   label: 'Tutorial',
           // },
           {to: '/docs/category/know-your-nonstop', label: 'Basics', position: 'left'},
-          {to: '/docs/category/deep-dive---reference-manuals--data-sheets--architecture-diagrams', label: 'Deep Dives', position: 'left'},
+          {to: '/docs/category/deep-dives', label: 'Deep Dives', position: 'left'},
           {to: '/docs/category/hpe-nonstop-partners', label: 'Partners', position: 'left'},
           {to: '/docs/category/hpe-regions', label: 'Regions', position: 'left'},
           {
