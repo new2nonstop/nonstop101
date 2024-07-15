@@ -7,6 +7,7 @@ sidebar_position: 1
 
 ## Platform
 - Logging into the TACL System
+
 - Logging into OSS
 - Navigating subsystems
     - File Systems
