@@ -5,6 +5,8 @@ sidebar_position: 1
 
 # Getting Started
 
+Congratulations! You've gotten a start at working with one of the world's most reliable OS - turning our compute-intensive servers into 
+
 ## Platform
 - Logging into the TACL System
 

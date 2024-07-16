@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Setting Up Tomcat'
+sidebar_label: 'Apache Tomcat - Setup'
 sidebar_position: 3
 ---
 

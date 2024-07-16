@@ -80,6 +80,7 @@ const config = {
           // },
           {to: '/docs/category/know-your-nonstop', label: 'Basics', position: 'left'},
           {to: '/docs/category/deep-dives', label: 'Deep Dives', position: 'left'},
+          {to: '/docs/category/tutorials', label: 'Tutorials', position: 'left'},
           // {to: '/docs/category/hpe-nonstop-partners', label: 'Partners', position: 'left'},
           {
             href: 'https://github.com/HewlettPackard/NonStop',

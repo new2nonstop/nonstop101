@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Git'
+sidebar_label: 'Git - Your NonStop to Cloud Repository'
 sidebar_position: 1
 ---
 
