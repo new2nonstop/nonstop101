@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'HPE NonStop',
+  title: 'HPE NonStop 101',
   tagline: 'HPE\'s Self-Healing Platform - Always On.',
   favicon: 'img/element.svg',
 
@@ -39,13 +39,13 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/shaniceabigail/nonstop101',
-        },
+        // docs: {
+        //   sidebarPath: './sidebars.js',
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/shaniceabigail/nonstop101/blob/main/',
+        // },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
