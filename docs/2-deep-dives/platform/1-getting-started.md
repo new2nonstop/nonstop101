@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 # Getting Started
-
+ 
 ## Platform
 - Logging into the TACL System
 - Logging into OSS

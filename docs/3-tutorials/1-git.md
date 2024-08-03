@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Connecting public cloud repos to Your NonStop using git'
+sidebar_label: 'Git - Your NonStop to Cloud Repository'
 sidebar_position: 1
 ---
 
