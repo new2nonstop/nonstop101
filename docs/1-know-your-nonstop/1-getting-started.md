@@ -6,6 +6,8 @@ sidebar_position: 1
 
 HPE NonStop Guardian is a robust operating system designed for mission-critical environments that require high availability and fault tolerance. This guide will help you get started with the basics of NonStop Guardian.
 
+Watch [this video](https://vimeo.com/showcase/7776942/video/479116681) to understand the basic concepts of the NonStop system! 
+
 ## System Access
 
 To begin working with NonStop Guardian, you'll need to access the system through a terminal emulator. The most common method is using MR-Win6530, a Windows-based terminal emulator specifically designed for NonStop systems.

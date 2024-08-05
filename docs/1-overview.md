@@ -4,6 +4,7 @@ sidebar_position: 1
 ---
 
 # What is the NonStop?
+[Watch: HPE NonStop Solutions: Always on and always adapting ](https://www.hpe.com/h22228/video-gallery/us/en/f02dbc84-c372-4228-a114-aab60fb43e10/hpe-nonstop-solutions--always-on-and-always-adapting/video/)
 
 NonStop is a platform that runs some of the world’s most exciting workloads in our day-to-day life. From producing luxury cars, to making payments in our grocery shops, NonStop is the platform that lets our customers, and their engineers get their sleep, while their mission-critical applications continue in data centres and on private clouds.
 
