@@ -5,31 +5,31 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     //onboarding platform
-    title: 'Some First Steps',
+    title: 'Hello World!',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Our NonStop Developer Portal shares tech tips to get developers and engineers onboarded and hit the ground running. Just some quick starts to get the baby-walker things out of the way.
+        Learn about HPE NonStop - find our "Getting Started" tutorials and simple commands on your very first HPE NonStop system.
       </>
     ),
   },
   {
     //developer community driven
-    title: 'Calling NonStop Developers',
+    title: 'Deep Dives',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-       Check our GitHub for inspirational repos and non-copyrighted code. Share ideas and frustration with the rest of our NonStop community - we're doing this in Tandem!
+       Explore the technical architectures and sub-systems from the OS that has protected mission-critical processes for over 40 years.
       </>
     ),
   },
   {
     //inspire product roadmaps
-    title: 'Help Me Please!',
+    title: 'Integrations',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Hate getting stuck? Us too. Drop us a mail, and let's find a workaround with some NonStop veterans.
+        Need help integrating cross-product tools? Explore our tutorials and sample code in our GitHub repo.
       </>
     ),
   },
