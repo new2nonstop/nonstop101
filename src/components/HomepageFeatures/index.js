@@ -6,7 +6,7 @@ const FeatureList = [
   {
     //onboarding platform
     title: 'Hello World!',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/tricycle1.svg').default,
     description: (
       <>
         Learn about HPE NonStop - find our "Getting Started" tutorials and simple commands on your very first HPE NonStop system.
@@ -16,7 +16,7 @@ const FeatureList = [
   {
     //developer community driven
     title: 'Deep Dives',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/bike1.svg').default,
     description: (
       <>
        Explore the technical architectures and sub-systems from the OS that has protected mission-critical processes for over 40 years.
@@ -26,7 +26,7 @@ const FeatureList = [
   {
     //inspire product roadmaps
     title: 'Integrations',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/tandem0.svg').default,
     description: (
       <>
         Need help integrating cross-product tools? Explore our tutorials and sample code in our GitHub repo.

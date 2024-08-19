@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'FUP'
+sidebar_label: 'Java'
 sidebar_position: 1
 ---
 

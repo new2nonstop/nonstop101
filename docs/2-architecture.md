@@ -9,12 +9,12 @@ NonStop systems, developed by Hewlett Packard Enterprise, are designed for envir
 
 # Core Architecture
 
-NonStop systems employ a loosely-coupled cluster of processors connected by a high-speed bus known as ServerNet. This architecture is fundamental to the system's fault tolerance and scalability.
+NonStop systems employ a loosely-coupled cluster of processors connected by a high-speed bus known as InfiniBand from Mellanox. This architecture is fundamental to the system's fault tolerance and scalability.
 
 ## Key Features:
 - **Shared-Nothing Architecture**: Each processor operates independently without sharing memory, enhancing fault isolation and system robustness.
 
-- **ServerNet**: A high-speed interconnect that provides redundant paths between system components, ensuring continuous communication even if one path fails.
+- **InfiniBand**: A high-speed interconnect that provides redundant paths between system components, ensuring continuous communication even if one path fails.
 
 # NonStop Advanced Architecture (NSAA)
 The NonStop Advanced Architecture (NSAA) represents an evolution in the platform's design, emphasizing modular redundancy and the use of standard hardware components.
