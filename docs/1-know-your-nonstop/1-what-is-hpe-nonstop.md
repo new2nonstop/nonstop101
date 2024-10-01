@@ -4,13 +4,21 @@ sidebar_position: 1
 ---
 # What is HPE NonStop?
 
-HPE NonStop is an integrated hardware and software solution that has been designed and built to survive the loss of components might be critical to other systems.
+HPE NonStop is an integrated hardware and software solution that has been designed and built to **survive the loss of components is considered to be critical to other systems**.
 
 It is a self-healing platform, with the ability to reconfigure itself in the case of failure. HPE NonStop, or Tandem, as it is favourably remembered - is used by organizations who need their systems to be always on.
 
-## You'd probably have interacted with a NonStop...
+## You'd probably have interacted with a NonStop lately...
+Our HPE NonStop servers have been around for more than 50 years, and are the backbone of core systems that we don't think twice about using today.
 
-To begin working with NonStop Guardian, you'll need to access the system through a terminal emulator. The most common method is using [MR-Win6530, a Windows-based terminal emulator specifically designed for NonStop systems](https://www.comforte.com/fileadmin/Collateral/FS_MRWin6530.pdf).
+Immigration, manufacturing, ATMs and point-of-sale systems (POS), all depend on HPE NonStop to reduce global downtime to a couple of seconds of unplanned downtime a year.
+
+## What's so special about the workloads that the NonStop handles?
+The exponential increase in data generated demands for mission-critical data to be **have data integrity and availability**. This means that the data generated has to be consistent and available at any point in time.
+
+In the industry, operations on such data is known as a transaction - either the entire operation happens, or nothing happens. For example, either money is withdrawn from your savings account, and dispensed at the ATM you're getting it from, or nothing happens at all. 
+
+The system either performs all the steps required to complete the transaction, or none of them - **transactions are the lifeblood of corporations.**
 
 ### TACL: Your Command Interface
 
