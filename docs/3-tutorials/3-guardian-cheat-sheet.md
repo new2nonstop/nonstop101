@@ -1,11 +1,13 @@
 ---
 sidebar_label: 'Guardian Commands Cheat Sheet'
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Guardian Commands Cheat Sheet
 
-```status``` - checks on the process name
+```status``` - checks on the process 
+
+```status *``` - lists all processess
 
 ```fileinfo ```
 

@@ -1,8 +1,8 @@
 ---
-sidebar_label: 'HPE NonStop for Dummies - A Summary'
+sidebar_label: 'What is HPE NonStop?'
 sidebar_position: 1
 ---
-# HPE NonStop for Dummies - A Summary
+# What is HPE NonStop?
 
 HPE NonStop is an **integrated hardware and software solution** that has been designed and **built to survive the loss of components is considered to be critical to other systems**.
 
