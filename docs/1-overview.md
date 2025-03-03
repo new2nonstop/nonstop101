@@ -44,14 +44,15 @@ The NonStop OS has patented its fault-tolerant and self-healing technology by al
 The process can repeat as many times as necessary to ensure the **highest level of availability** qualified by IDC.
 
 ### What happens where is a component failure / online upgrades?
-Let's take a scenario where one of our engineers is doing an online update to the  hosts of the vNonStop CPUs.
+Let's take a scenario where one of the CPUs fail in a NonStop.
 
 1. Primary component fails.
 
 2. Backup component takes over as the new primary component - all processes assigned to the both of them will be done by the new primary component.
 
-3. Upgrades and things
+3. Old primary component restarts itself.
 
+Let's take a look at what 
 
 
 <!-- cooperative and interuptive OS -->
