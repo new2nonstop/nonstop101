@@ -54,4 +54,4 @@ Layer that works between the Database and Platform
 ## Development Environment
 - NSDEE - language compilers and runtimes
 - NSDevEnv (on Cloud)
-- NSDevOps --> -->
+- NSDevOps -->

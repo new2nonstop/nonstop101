@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Guardian Commands Cheat Sheet'
+sidebar_label: 'Cheat Sheet - Guardian'
 sidebar_position: 3
 ---
 
