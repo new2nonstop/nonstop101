@@ -1,8 +1,8 @@
 ---
-sidebar_label: 'HPE NonStop for Dummies - A Summary'
+sidebar_label: 'NonStop for Dummies - A Summary'
 sidebar_position: 1
 ---
-# HPE NonStop for Dummies - A Summary
+# NonStop for Dummies - A Summary
 
 HPE NonStop is an **integrated hardware and software solution** that has been designed and **built to survive the loss of components is considered to be critical to other systems**.
 
@@ -48,7 +48,7 @@ Critical operating system processes run in what is called **process pairs** in o
 
 Because of the design, the software is able to **transparently fail-over** over to the second set of components without interrupting existing operations.
 
-## Platform Overview
+<!-- ## Platform Overview -->
 
 
 

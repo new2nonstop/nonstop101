@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'OSS Commands Cheat Sheet'
+sidebar_label: 'Cheat Sheet - OSS'
 sidebar_position: 4
 ---
 

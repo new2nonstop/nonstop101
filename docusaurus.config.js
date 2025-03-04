@@ -45,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/nsu40/nonstop101/blob/main/',
+            'https://github.com/new2nonstop/nonstop101/blob/main/',
         },
         blog: {
           showReadingTime: true,
@@ -80,7 +80,7 @@ const config = {
           //   label: 'Tutorial',
           // },
           {to: '/docs/category/know-your-nonstop', label: 'Basics', position: 'left'},
-          {to: '/docs/category/deep-dives', label: 'Deep Dives', position: 'left'},
+          // {to: '/docs/category/deep-dives', label: 'Deep Dives', position: 'left'},
           {to: '/docs/category/tutorials', label: 'Tutorials', position: 'left'},
           // {to: '/docs/category/hpe-nonstop-partners', label: 'Partners', position: 'left'},
           {
@@ -98,7 +98,7 @@ const config = {
             items: [
               {
                 label: 'Quick Start',
-                to: '/docs/know-your-nonstop/getting-started',
+                to: '/docs/know-your-nonstop/what-is-hpe-nonstop',
               },
             ],
           },
