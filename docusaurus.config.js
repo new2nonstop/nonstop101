@@ -82,6 +82,7 @@ const config = {
           {to: '/docs/category/know-your-nonstop', label: 'Basics', position: 'left'},
           // {to: '/docs/category/deep-dives', label: 'Deep Dives', position: 'left'},
           {to: '/docs/category/tutorials', label: 'Tutorials', position: 'left'},
+          {to: '/docs/tags', label: 'Tags', position: 'right'},
           // {to: '/docs/category/hpe-nonstop-partners', label: 'Partners', position: 'left'},
           {
             href: 'https://github.com/HewlettPackard/NonStop',
@@ -99,6 +100,10 @@ const config = {
               {
                 label: 'Quick Start',
                 to: '/docs/know-your-nonstop/what-is-hpe-nonstop',
+              },
+              {
+                label: 'Tags',
+                to: '/docs/tags',
               },
             ],
           },
