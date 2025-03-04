@@ -21,6 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'new2nonstop', // Usually your GitHub org/user name.
+
   projectName: 'nonstop101', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -44,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/shaniceabigail/nonstop101/blob/main/',
+            'https://github.com/nsu40/nonstop101/blob/main/',
         },
         blog: {
           showReadingTime: true,
