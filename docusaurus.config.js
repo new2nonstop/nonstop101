@@ -20,7 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'NSU40', // Usually your GitHub org/user name.
+  organizationName: 'new2nonstop', // Usually your GitHub org/user name.
+
   projectName: 'nonstop101', // Usually your repo name.
 
   onBrokenLinks: 'throw',
