@@ -1,6 +1,9 @@
 ---
 sidebar_label: 'Crash Course - Guardian'
 sidebar_position: 2
+
+tags:
+- guardian
 ---
 # Getting Started with HPE NonStop Guardian
 

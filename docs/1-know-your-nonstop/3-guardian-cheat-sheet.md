@@ -1,6 +1,9 @@
 ---
 sidebar_label: 'Cheat Sheet - Guardian'
 sidebar_position: 3
+
+tags:
+- guardian
 ---
 
 # Guardian Commands Cheat Sheet

@@ -1,6 +1,9 @@
 ---
 sidebar_label: 'NonStop for Dummies - A Summary'
 sidebar_position: 1
+
+tags:
+- where to start
 ---
 # NonStop for Dummies - A Summary
 
