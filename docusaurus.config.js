@@ -112,15 +112,19 @@ const config = {
             items: [
               {
                 label: 'Connect Worldwide',
-                href: 'https://connect-community.org/nonstop/',
+                href: 'https://connect-community.org/',
               },
               {
-                label: 'NonStop Events',
-                href: 'https://connect-community.org/chapter-events-2024/',
+                label: '2025 NonStop Chapter Events',
+                href: 'https://connect-community.org/chapter-events-2025/',
               },
               {
                 label: 'NonStop Technical Bootcamp',
                 href: 'https://nonstoptbc.com',
+              },
+              {
+                label: 'Become a Connect Member Today',
+                href: 'https://connect-community.org/become-a-member/',
               },
             ],
           },
