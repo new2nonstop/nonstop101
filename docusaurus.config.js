@@ -112,11 +112,11 @@ const config = {
             items: [
               {
                 label: 'Connect Worldwide',
-                href: 'https://connect-community.org/nonstop/',
+                href: 'https://connect-community.org/',
               },
               {
                 label: 'NonStop Events',
-                href: 'https://connect-community.org/chapter-events-2024/',
+                href: 'https://connect-community.org/chapter-events-2025/',
               },
               {
                 label: 'NonStop Technical Bootcamp',
