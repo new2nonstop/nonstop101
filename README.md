@@ -1,8 +1,20 @@
-# tandem
- docusaurus v3.6
+# Nonstop 101
+Welcome to New to Nonstop's 101. We're looking at 
+
+## See something that's not right?
+Edit the site, and show your merged pull request to redeem some merch at our next meeting!
+
+### How to Edit A Page?
+
+![Page Edit](edit-page.png)
+1. Go to the Page to be edited, and click on "Edit Page" Button on the bottom
+2. Edit and make changes on the Browser
+3. Save and "commit"
+4. Create a "Merge Pull Request" for the changes to be accepted into the system.
 
 
-## How to Run
+## Making this project yours -
+### How to Run
 1. Install Packages
 npm install
 
@@ -13,7 +25,7 @@ npm audit fix
 npm run start
 
 
-## Deploy
+### Deploy
 - edit docusaurus.config.js (line 15)
     url: 'https://github.com',
     baseUrl: '/nonstop101',
