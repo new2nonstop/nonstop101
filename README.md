@@ -1,5 +1,5 @@
 # Nonstop 101
-Welcome to New to Nonstop's 101. We're looking at 
+Welcome to New to Nonstop's 101. We're glad to see a fellow developer on this readme file.
 
 ## See something that's not right?
 Edit the site, and show your merged pull request to redeem some merch at our next meeting!
